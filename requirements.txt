@@ -1,0 +1,12 @@
+python-dotenv
+azure-ai-documentintelligence
+azure-search-documents
+azure-core
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+langchain-text-splitters
+pymupdf4llm
+numpy
